@@ -1,0 +1,3 @@
+Tutorial:gf:0xFF9271FD
+Unhappy:sadmouse:0xFF919191
+Happy:happymouse:0xFF5E5E5E
